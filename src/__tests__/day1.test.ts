@@ -14,7 +14,7 @@ import {
   sumOf2DigitNumbers,
   turnEachLineInto2DigitNumber,
   turnLineInto2DigitNumber,
-} from '../day1';
+} from '../solutions/day1';
 
 import { data1 } from '../data/data1';
 
